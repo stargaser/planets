@@ -1,5 +1,7 @@
+# Adding comments for posterity
+
 PRO:
-It's apple red, my favourite colour
+It's blood red, my favourite colour
 The Egyptian Mummy will appreciate the lack of humidity
 
 CON:
